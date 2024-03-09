@@ -1,6 +1,6 @@
-# CO538-Muneef-22206529
+# Repository for ML project.
 
-**Name:** Muneef Mumthas
+**Student Name:** Muneef Mumthas
 
 **Student ID:** 22206529
 
